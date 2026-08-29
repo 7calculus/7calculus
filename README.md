@@ -33,9 +33,6 @@
   <a href="https://www.twitch.tv/7calculus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="7calculus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgqJgrXEt9rG9QKi9bQjRxmlJjApe7ynbN7hRBD9DPTJ3BZBpKbzZZcdY&s=10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
